@@ -22,8 +22,8 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  houses = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
-  return houses.sort 
+  houses = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY.sort]
+  
 
 end
     # Using Array literal syntax only, build a nested array that uses the data inside the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
