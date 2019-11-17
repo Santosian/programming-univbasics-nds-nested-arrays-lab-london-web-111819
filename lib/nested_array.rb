@@ -27,10 +27,10 @@ end
 
 def matrix_lookup(matrix, row, column)
   return matrix[row][column]
-  # Return the matrix's content at row and column
 end
 
 def matrix_update(matrix, row, column, new_value)
+  matrix[]
+end
   # Update the matrix location at row and column to have the value of new_value
   # Return the updated matrix
-end
