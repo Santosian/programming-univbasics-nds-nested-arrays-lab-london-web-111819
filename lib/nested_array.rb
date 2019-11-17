@@ -22,7 +22,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  houses = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY.sort]
+  houses = [ENNET_HOUSE.sort,ENFIELD_TENNIS_ACADEMY.sort]
   
 
 end
