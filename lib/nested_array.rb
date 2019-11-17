@@ -22,7 +22,7 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  
+  array = [ ]
 
 end
     # Using Array literal syntax only, build a nested array that uses the data in
