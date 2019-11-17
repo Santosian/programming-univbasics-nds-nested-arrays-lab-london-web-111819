@@ -17,7 +17,7 @@ ENFIELD_TENNIS_ACADEMY = [
 ]
 
 def assembled_matrix
-  houses = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
+  $houses = [ENNET_HOUSE,ENFIELD_TENNIS_ACADEMY]
    return houses
 end
 
